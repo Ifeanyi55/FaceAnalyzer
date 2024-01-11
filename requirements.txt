@@ -1,0 +1,6 @@
+deepface
+gradio
+pandas
+matplotlib
+tempfile
+os
